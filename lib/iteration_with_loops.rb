@@ -4,5 +4,6 @@ def join_nested_strings(src)
   string_value = ""
   row_index = 0 
   while row_index < src.length do
+    element_index
 end
 end
