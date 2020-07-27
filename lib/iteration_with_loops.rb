@@ -7,7 +7,9 @@ def join_nested_strings(src)
     element_index = 0
     string_value = ""
     while element_index < src[row_index].length do
-      if 
+      if src[row_index][element_index].class == String
+        
+    end
   end
 end
 end
